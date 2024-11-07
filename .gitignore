@@ -1,0 +1,19 @@
+# Ignore the virtual environment
+venv/
+# Ignore Python bytecode files
+__pycache__/
+*.py[cod]
+# Ignore IDE configuration files
+.vscode/
+.idea/
+# Ignore log files
+*.log
+# Ignore database files
+*.sqlite3
+# Ignore cache files
+*.pyo
+*.pyd
+# Ignore package files
+*.egg-info/
+dist/
+build/
