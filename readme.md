@@ -21,12 +21,13 @@ This project is an implementation of a **single linked list** visualized in real
 
 1. **Create and activate the Python virtual environment**
 
-````bash
+```bash
    python -m venv venv
    .\venv\Scripts\Activate
-
-2.  **Install dependencies**
+```
+##
+2. **Install dependencies**
 
 ```bash
     pip install -r requirements.txt
-````
+```
